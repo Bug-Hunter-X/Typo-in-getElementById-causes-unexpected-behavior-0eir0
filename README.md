@@ -1,0 +1,3 @@
+# Uncommon HTML Bug: Typos in DOM Manipulation
+
+This repository demonstrates a subtle bug in JavaScript code interacting with the HTML DOM.  The error is a simple typo in a commonly used DOM manipulation function, resulting in unexpected behavior and potentially difficult debugging.  The bug and its solution are provided in separate HTML files.  The bug showcases the importance of careful coding and thorough testing.
